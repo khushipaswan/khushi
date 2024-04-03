@@ -1,2 +1,3 @@
 # khushi
-first Git repository.
+First Git repository.
+Author- Khushi Paswan
