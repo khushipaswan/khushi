@@ -1,2 +1,2 @@
 # khushi
-first repository.
+first Git repository.
